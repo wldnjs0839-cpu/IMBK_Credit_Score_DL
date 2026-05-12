@@ -102,11 +102,6 @@ data['EMI_Income_Ratio']    = data['Total_EMI_per_month'] * 12     / (data['Annu
 data['Invest_Income_Ratio'] = data['Amount_invested_monthly'] * 12 / (data['Annual_Income'] + 1)
 ```
 
-### 5️. 데이터 누수 차단
-
-- `stratify=y`로 클래스 비율 유지하며 80:20 hold-out split
-- `StandardScaler`는 **fold 내부에서 train fold에만 fit**, val/test에는 transform만
-
 <br>
 
 ## EDA
