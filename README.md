@@ -1,4 +1,4 @@
-# 신용점수 분류 딥러닝 컴페티션
+# IMBK_Credit_Score_DL
 
 > PyTorch MLP + XGBoost + LightGBM **3-모델 가중 앙상블**로 고객의 금융 행태 데이터로부터 신용등급(Good / Standard / Poor)을 분류하는 프로젝트입니다. 기본 베이스라인(71.52%) 대비 **약 +12%p** 향상시켜 hold-out test 정확도 **83.70%**를 달성했습니다.
 
