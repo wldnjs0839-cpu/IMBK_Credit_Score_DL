@@ -70,7 +70,7 @@ pip install torch scikit-learn xgboost lightgbm pandas numpy matplotlib seaborn
 
 <br>
 
-## 🛠 전처리
+## 전처리
 
 ### 1️. 식별자 처리 + Customer_ID 활용
 
