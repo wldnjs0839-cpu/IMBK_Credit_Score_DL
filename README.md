@@ -1,5 +1,6 @@
 # IMBK_Credit_Score_DL
 
+> https://github.com/wldnjs0839-cpu/IMBK_Credit_Score_DL/blob/main/%EC%BB%B4%ED%8E%98%ED%8B%B0%EC%85%98_%EB%B0%B1%EC%A7%80%EC%9B%90.ipynb
 > PyTorch MLP + XGBoost + LightGBM 3-모델 가중 앙상블로 고객의 금융 행태 데이터로부터 신용등급(Good / Standard / Poor)을 분류하는 프로젝트입니다. 기본 베이스라인(71.52%) 대비 약 +12%p 향상시켜 hold-out test 정확도 83.70%를 달성했습니다.
 
 <br>
